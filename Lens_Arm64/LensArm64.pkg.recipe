@@ -21,7 +21,7 @@
 	<array>
 <dict>
                 <key>Processor</key>
-                <string>com.github.jgonitzke.autopkg_mac_recipes/scripts_macos/StringVersionReplacer</string>
+                <string>com.github.jgonitzke.autopkg_mac_recipes/StringVersionReplacer</string>
                 <key>Arguments</key>
                 <dict>
                     <key>input_string</key>
